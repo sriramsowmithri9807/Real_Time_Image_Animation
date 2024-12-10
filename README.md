@@ -39,13 +39,7 @@ If on windows platfrom unzip checkpoints.zip using unzipping software like 7zip.
 
 **Run application from live camera** : ```python image_animation.py -i path_to_input_file -c path_to_checkpoint```
 
-**Example** : ```python .\image_animation.py -i .\Inputs\Monalisa.png -c .\checkpoints\vox-cpk.pth.tar```
-
-**Run application from video file** : ```python image_animation.py -i path_to_input_file -c path_to_checkpoint -v path_to_video_file```
-
-**Example** : ```python .\image_animation.py -i .\Inputs\Monalisa.png -c .\checkpoints\vox-cpk.pth.tar -v .\video_input\test1.mp4 ```
-
-![test demo](animate.gif)
+**Example** : ```python .\image_animation.py -i .\Inputs\Monalisa.png -c .\checkpoints\vox-cpk.pth.
 
 ### TODO:
 Tkinter version
